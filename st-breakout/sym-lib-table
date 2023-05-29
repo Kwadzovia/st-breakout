@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "st-breakout-rescue")(type "KiCad")(uri "${KIPRJMOD}/st-breakout-rescue.kicad_sym")(options "")(descr ""))
+)
